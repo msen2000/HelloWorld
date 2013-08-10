@@ -19,6 +19,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		HelloWorld hw= new HelloWorld();
 		hw.setName("Senthi");
+		System.out.println("Hello World 1 1");
 	}
 
 }
